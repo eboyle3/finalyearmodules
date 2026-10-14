@@ -1,0 +1,4 @@
+ 2 	8 	4 	9
+ add subtract prodcut switch
+
+ 2	2	2	1

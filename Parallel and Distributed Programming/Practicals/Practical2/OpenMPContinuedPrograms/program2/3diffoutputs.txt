@@ -1,0 +1,26 @@
+Running iteration 23
+Sect 2: load on thread 1 
+Sect 1: load on thread 0 
+Sect 1: add on thread 0 
+Sect 1: store on thread 0 
+Sect 2: add on thread 1 
+Sect 2: store on thread 1 
+amount = 300
+
+Running iteration 24
+Sect 1: load on thread 0 
+Sect 1: add on thread 0 
+Sect 1: store on thread 0 
+Sect 2: load on thread 1 
+Sect 2: add on thread 1 
+Sect 2: store on thread 1 
+amount = 400
+
+Running iteration 25
+Sect 1: load on thread 0 
+Sect 2: load on thread 1 
+Sect 1: add on thread 0 
+Sect 2: add on thread 1 
+Sect 2: store on thread 1 
+Sect 1: store on thread 0 
+amount = 200
