@@ -1,0 +1,3 @@
+[submodule "fused"]
+	path = fused
+	url = https://github.com/UoS-EEC/fused.git
