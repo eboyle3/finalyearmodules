@@ -1,0 +1,17 @@
+Pasted commands to run assignment 1 code.
+Compile code:
+gcc method-a.c -o method-a.exe
+REMEMBER to use -fopenmp linker when compiling the parallelised version of the code
+
+Running code:
+(comped exe)	(path to data)			(path to pattern)
+method-a.exe ..\data\data1-1MB.txt ..\patterns\pattern1.txt
+
+
+Timing Meanings:
+Real Time (Wall Clock Time): The amount of time from start to finish that the program takes to run Including loading from disk, execution and writing
+
+User Time: The accumulative sum of all execution time of each processor.
+(In a parallel task this time may be greater than the wall time)
+
+System Time: The time the CPU is operating in the Kernel space on behalf of the program. eg fopen() fwrite() malloc()

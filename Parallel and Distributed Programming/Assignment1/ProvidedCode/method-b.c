@@ -51,6 +51,7 @@ int main(int ac, char** av)
     {
         patterncount[i]=0;
     }
+    
 
     // loop through the patterns
     for(long p=0; p<pat.lines; ++p)
